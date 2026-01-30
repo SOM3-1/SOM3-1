@@ -18,24 +18,24 @@ Here are some ideas to get you started:
 # Dushyanth N Gowda 👋
 
 Software Engineer with 5+ years of experience building production-grade web and mobile systems used at scale.  
-Currently pursuing a Master’s in Software Engineering at The University of Texas at Arlington (GPA: 4.0).
+Currently pursuing a Master’s in Software Engineering at The University of Texas at Arlington.
 
 I enjoy solving complex, real-world problems across frontend, backend, and mobile, with a strong focus on performance, automation, and user experience.
 
 ---
 
-## Experience & Impact 🚀
+## Experience & Impact 
 
-### Tesla ⚡
+### Tesla 
 As a Software Engineering Intern, I worked on Tesla Insurance and service workflows. I designed and built a full-stack insurance carrier selection system for glass repairs using TypeScript APIs, GraphQL, and a React Native UI, improving scheduling efficiency by 50%. I also implemented a backend-driven Glass Selector that increased automation accuracy from 58% to 85% and reduced service delays. Additionally, I enhanced in-app customer support chat flows to improve usability and customer satisfaction.
 
-### Sony Interactive Entertainment (PlayStation) 🎮
+### Sony Interactive Entertainment (PlayStation) 
 At PlayStation, I worked on real-time voice communication features. I developed the “Display Who’s Speaking” active speaker indicator for PS5 Party Chat, enabling fast and accurate speaker updates during multiplayer sessions. I also migrated legacy voice chat modules from JavaScript to TypeScript, improving type safety and long-term maintainability.
 
-### Version1 Solutions 🧠
+### Version1 Solutions 
 At Version1, I owned the end-to-end implementation of Dublin Airport’s official React Native app, redesigning its architecture and integrating real-time flight updates, supporting growth from 40K to 80K monthly users. I also built cloud migration planning tools using Angular and TypeScript, automating data analysis and reducing manual effort by 70%. My work included real-time progress tracking, system visualizations, and delivery automation. I received the Version1 Excellence Award for impact and consistent delivery.
 
-### Cerner Healthcare 🏥
+### Cerner Healthcare 
 At Cerner, I worked on large-scale healthcare systems. I implemented real-time medication data integrations using FHIR and REST APIs, enabling external clinical systems to stream data into production workflows. I built internal React tools to eliminate manual data entry and significantly reduce testing effort. I also refactored legacy Java services to improve build performance and maintained a production Win32 application in C++ and MFC, fixing critical crashes and stability issues.
 
 ---
