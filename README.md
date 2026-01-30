@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Dushyanth N Gowda 
 
 <!--
 **SOM3-1/SOM3-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Dushyanth N Gowda 👋
 
 Software Engineer with 5+ years of experience building production-grade web and mobile systems used at scale.  
 Currently pursuing a Master’s in Software Engineering at The University of Texas at Arlington.
